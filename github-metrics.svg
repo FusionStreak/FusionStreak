@@ -1320,7 +1320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openappsec/open-appsec-npm</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker container for managing Nginx proxy hosts with a simple, powerful interface including open-appsec support</div>
@@ -1529,7 +1529,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2026, 16:05:19 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2026, 17:03:50 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
