@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>artifact-keeper/artifact-keeper</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40+ package formats, security scanning, WASM plugins, and edge replication.</div>
@@ -1519,7 +1519,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Feb 2026, 10:13:26 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2026, 11:12:09 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
