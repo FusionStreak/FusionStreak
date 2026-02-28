@@ -1315,7 +1315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustfs/rustfs</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</div>
@@ -1368,7 +1368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fluxerapp/fluxer</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free and open source instant messaging and VoIP platform built for friends, groups, and communities.</div>
@@ -1524,7 +1524,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Feb 2026, 07:03:10 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2026, 08:14:02 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
