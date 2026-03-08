@@ -1320,7 +1320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nextcloud/all-in-one</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.</div>
@@ -1473,7 +1473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ozturkkl/framework-control</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An app with a GUI that allows users to control the Framework Laptop embedded features via the "framework-system" and the "inputmodule-rs". Other EC (Embedded Controller) features may be added at a later time.</div>
@@ -1523,7 +1523,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Mar 2026, 05:05:09 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2026, 06:03:08 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
