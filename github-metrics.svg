@@ -1310,7 +1310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Obiente/nc-native</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Adaptive native Nextcloud client for mobile and desktop, with dynamic support for the wider Nextcloud app ecosystem.</div>
@@ -1519,7 +1519,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Aug 2026, 23:42:25 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Aug 2026, 00:32:16 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
