@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>librespeed/speedtest</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more</div>
@@ -1519,7 +1519,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Sept 2026, 10:02:36 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Sept 2026, 11:02:29 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
